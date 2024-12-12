@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<services>
+    <cloudstreamsCollectionKeys serviceName="WmCloudStreams.SoapVS">
+        <servicesKeys>
+            <keyDetails collectionKey="CCS:ccs_create" connectorServiceName="CCS:ccs_create"/>
+            <keyDetails collectionKey="CCS:sf_basic_ccs" connectorServiceName="CCS:sf_basic_ccs"/>
+            <keyDetails collectionKey="CCS:sf_oauth_CCS" connectorServiceName="CCS:sf_oauth_CCS"/>
+        </servicesKeys>
+    </cloudstreamsCollectionKeys>
+</services>
